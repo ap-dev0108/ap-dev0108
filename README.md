@@ -1,18 +1,25 @@
 # Hey, I'm Aryan 👋
 
-### Full-Stack Developer
+### Full-Stack Developer | Backend-Focused
 
-I build web applications with a focus on backend development, system design, and clean architecture.
+I build web applications with a focus on **backend engineering, clean architecture, and scalable systems.**
 
-Currently working with **Java, Spring Boot, C#, .NET, React, TypeScript, and PostgreSQL.**
-
+Currently building with **Java, Spring Boot, C#, .NET, React, TypeScript, and PostgreSQL.**
 ---
 
 ## 🚀 What I'm Building
 
-- 💬 **Realtime Chat Application** — Spring Boot, WebSocket, PostgreSQL
-- 🍽️ **Restaurant Order Management System** — .NET, React, PostgreSQL
-- 🎬 **Movie & TV Rating System** — MERN + TypeScript
+- 💬 **Realtime Chat Application**
+  - Spring Boot, WebSocket, PostgreSQL
+  - Real-time messaging with authentication and conversation management
+
+- 🍽️ **Restaurant Order Management System**
+  - .NET, React, PostgreSQL
+  - Role-based restaurant management and order processing
+
+- 🎬 **Movie & TV Rating System**
+  - MERN + TypeScript
+  - Movie and TV-show ratings, reviews, and user interaction
 
 ---
 
@@ -75,6 +82,3 @@ Currently working with **Java, Spring Boot, C#, .NET, React, TypeScript, and Pos
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in software development, open-source projects, and building useful things.
