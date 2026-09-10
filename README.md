@@ -61,7 +61,9 @@ Currently working with **Java, Spring Boot, C#, .NET, React, TypeScript, and Pos
 
 ## 📊 GitHub Activity
 
-I'm constantly building, breaking, fixing, and learning.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ap-dev0108&show_icons=true&hide_border=true&rank_icon=github" />
+</p>
 
 ---
 
