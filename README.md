@@ -62,7 +62,7 @@ Currently working with **Java, Spring Boot, C#, .NET, React, TypeScript, and Pos
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ap-dev0108/ap-dev0108/output/snake.svg" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/ap-dev0108/ap-dev0108/main/dist/snake.svg" alt="GitHub contribution snake" />
 </p>
 
 ---
