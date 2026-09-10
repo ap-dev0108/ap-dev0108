@@ -67,6 +67,14 @@ Currently working with **Java, Spring Boot, C#, .NET, React, TypeScript, and Pos
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ap-dev0108&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm interested in software development, open-source projects, and building useful things.
