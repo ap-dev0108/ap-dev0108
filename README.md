@@ -59,10 +59,10 @@ Currently working with **Java, Spring Boot, C#, .NET, React, TypeScript, and Pos
 
 ---
 
-## 📊 GitHub Activity
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ap-dev0108&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+  <img src="https://raw.githubusercontent.com/ap-dev0108/ap-dev0108/output/snake.svg" alt="GitHub contribution snake" />
 </p>
 
 ---
